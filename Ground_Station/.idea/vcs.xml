@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/utils/OpenGL-QML-PyQt5-Examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/utils/PyGLWidget" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/utils/PyQt-for-OpenGL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/utils/Robot-Simulation-PyQt5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/utils/STL-3D-Rasterer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/utils/platemaker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/utils/pyforms" vcs="Git" />
+  </component>
+</project>
