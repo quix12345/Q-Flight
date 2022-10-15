@@ -19,7 +19,7 @@ For the Q-Flight controller, a range of sensors was used, for instance the barom
 
 The Remote Control use implemented by using wireless USART through LORA protocols which has achieve over  2100km as its valid remote control distance through air. The Q-Flight remote communication protocol supports the control of the quadrotor, transporting the quadrotor's status, change values in Flash, customize PID controllers, transmitting large amount of information, sensor calibration, etc. The protocol received by quadrotor starts with '0xC8' and end with '0xC9' , while the protocol received by the ground staion was start with double  '0xC8' and end with double '0xC9'. The hardware and coding system was proved to be highly reliable during several tests in Q-Flight.
 
-![quadrotor](https://quix.zqwei-tech.cn/static/qflight/1.png "quadrotor")
+![quadrotor](https://github.com/quix12345/Q-Flight/blob/master/qflight/1.png "quadrotor")
 
 #### 3D Printing Model
 
